@@ -14,7 +14,6 @@ mail template is created with Freemarker and email is send with Java Mail Sender
     <li>Sleuth</li>
 </ul>
 
-
 ## Layers Of User Service
 <ol>
     <h3><li>Dto</li></h3>
