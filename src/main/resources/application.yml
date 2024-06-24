@@ -44,8 +44,8 @@ spring:
     default-encoding: UTF-8
     host: smtp.gmail.com
     port: 587
-    username: onlystone@gmail.com # CHANGE with your email.
-    password: 'Yps@1225'    # CHANGE with your password.
+    username: seeone.yoon # CHANGE with your email.
+    password: sfyg opaz kfpl owlc    # CHANGE with your password.
     protocol: smtp
     test-connection: false
     properties:
