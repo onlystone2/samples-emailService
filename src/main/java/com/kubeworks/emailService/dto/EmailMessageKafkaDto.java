@@ -1,4 +1,4 @@
-package com.kaankaplan.emailService.dto;
+package com.kubeworks.emailService.dto;
 
 import lombok.AllArgsConstructor;
 import lombok.Builder;

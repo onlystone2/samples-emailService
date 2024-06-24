@@ -1,4 +1,4 @@
-package com.kaankaplan.emailService.business.abstracts;
+package com.kubeworks.emailService.business.abstracts;
 
 import java.util.Map;
 

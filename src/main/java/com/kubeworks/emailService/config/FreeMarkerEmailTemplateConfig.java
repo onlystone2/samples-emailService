@@ -1,4 +1,4 @@
-package com.kaankaplan.emailService.config;
+package com.kubeworks.emailService.config;
 
 import org.springframework.context.annotation.Bean;
 import org.springframework.context.annotation.Configuration;

@@ -1,6 +1,6 @@
-package com.kaankaplan.emailService.business.concretes;
+package com.kubeworks.emailService.business.concretes;
 
-import com.kaankaplan.emailService.business.abstracts.EmailService;
+import com.kubeworks.emailService.business.abstracts.EmailService;
 import freemarker.template.*;
 import lombok.RequiredArgsConstructor;
 import org.springframework.mail.javamail.JavaMailSender;

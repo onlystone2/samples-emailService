@@ -1,7 +1,7 @@
-package com.kaankaplan.emailService.kafka;
+package com.kubeworks.emailService.kafka;
 
-import com.kaankaplan.emailService.business.abstracts.EmailService;
-import com.kaankaplan.emailService.dto.EmailMessageKafkaDto;
+import com.kubeworks.emailService.business.abstracts.EmailService;
+import com.kubeworks.emailService.dto.EmailMessageKafkaDto;
 import lombok.RequiredArgsConstructor;
 import org.springframework.kafka.annotation.KafkaListener;
 import org.springframework.stereotype.Service;
